@@ -1,0 +1,408 @@
+body {
+    margin:0;
+  }
+
+.header-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 80px;
+}
+
+.bg-light {
+    background-color: #f8f9fa4f!important;
+    width: 100%;
+}
+
+div#navbarNav {
+    justify-content: space-around;
+    color: #222222;
+    font-family: 'Nunito', sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    padding-top: 20px;
+}
+
+ul.navbar-nav {
+    margin-left: 300px;
+    gap: 25px;
+}
+
+form.form-inline.my-2.my-lg-0 {
+    margin-left: 150px;
+}
+
+.cookbook{
+    display: flex;
+    padding-left: 10%;
+    background-color: #dde9fb;
+    height: 5%;
+}
+
+.cookbook-content{
+    width: 50%;
+    display: inline-flex;
+}
+
+p.cookbook-text{
+    color: #666666;
+    font-family: Nunito;
+    font-size: 13px;
+    margin-top: 8px;
+}
+
+a.cookbook-link {
+  color: rgb(34, 34, 34);
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  height: 30px;
+  text-decoration: none;
+  padding-top: 8px;
+  padding-left: 15px;
+  letter-spacing: 1px;
+  font-family: 'Nunito';
+}
+
+a.cookbook-link:hover{
+  color: #f7941d;
+}
+
+i.qode_icon_font_awesome_5.fa5.fa.fa-caret-right.qode_button_icon_element {
+    color: #222222;
+    padding-top: 9px;
+    padding-left: 6px;
+}
+
+.email-link{
+    padding-top: 5px;
+    padding-left: 13%;
+}
+
+a.quick-help{
+    color: #666666;
+    font-family: Nunito;
+    font-size: 13px;
+    text-decoration: none;
+}
+
+a.email-at{
+    color: #666666;
+    font-family: Nunito;
+    font-size: 13px;
+    text-decoration: none;
+}
+
+.banner{
+    height: 50%;
+    background-image: url(https://bridge420.qodeinteractive.com/wp-content/uploads/2021/02/category-title-image.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    color: #222222;
+    font-family: 'Abril Fatface', sans-serif;
+    font-size: 36px;
+    letter-spacing: 2;
+    text-align: center;
+    padding-top: 12%;
+}
+
+.column-one{
+    width: 35%;
+}
+
+.easy-menu{
+    width: 100%;
+    padding-top: 5%;
+}
+
+.vegan.menu{
+    padding-top: 5%;
+}
+
+.column-two{
+   width: 35%;
+   margin-left: -2%;
+  
+}
+  
+.recipe-img{
+    width: 90%;
+}
+
+.columns{
+    margin-left: 11%;
+    display: flex;
+}
+
+.columns-content{
+    width: 80%;
+}
+
+.column-three{
+    width: 21%;
+    margin-left: -1%;
+    padding-top: 2%;
+}
+
+.menu-selection{
+    margin-top: 5%;
+}
+
+h3{
+    color: #222222;
+    font-family: 'Abril Fatface', sans-serif;
+    font-size: 23px;
+}
+
+.col-text{
+    font-family: 'Nunito', sans-serif;
+    color: #777777;
+    font-size: 12px;
+    text-align: center;
+}
+  
+.lunch-btn{
+    background-color: #d9a3b2;
+    border: none;
+    color: white;
+    height: 30px;
+    font-family: 'Nunito', sans-serif;
+    letter-spacing: 1;
+    margin-top: 4%;
+    margin-bottom: -4%;
+    margin-left: 35%;
+}
+  
+.blue-box{
+    background-color: #dde9fb;
+    text-align: center;
+    height: 2%;
+   
+}
+
+.contact{
+    text-align: center;
+    margin-top: -7%;
+}
+
+.profile{
+    padding-top: 13%;
+}
+
+h5{
+    font-size: 25px;
+    font-family: Abril Fatface;
+}
+
+.bio{
+    color: #777777;
+      font-family: 'Nunito', sans-serif;
+      font-size: 16px;
+      line-height: 26px;
+}
+
+.social-icons{
+    margin-top: 10%;
+}
+
+i.fa.fa-pinterest{
+    margin-right: 8%;
+}
+
+i.fa.fa-facebook{
+    margin-right: 8%;
+}
+
+i.fa.fa-twitter{
+    margin-right: 8%;
+}
+
+.media-image{
+    margin-top: 10%;
+    text-align: left;
+}
+
+.contents{
+    display: flex;
+    padding-top: 5px;
+}
+
+.coconut{
+    width: 30%;
+    height: 30%;
+    padding-top: 10px;
+    margin-right: 4%;
+}
+
+.coconut-text {
+    font-size: 18px;
+    font-family: 'Abril Fatface', sans-serif;
+}
+
+.menu-list{
+   padding-top: 9%;
+}
+
+.blue-header{
+    font-family: Nunito;
+    font-size: 12px;
+    letter-spacing: 1.5px;
+    color: #333333;
+    padding-top: 5%;
+}
+
+.categories{
+      text-decoration: none;
+      color: #666666;
+      font-size: 12px;
+      font-family: Nunito;
+      line-height: 20px;
+      letter-spacing: 2px;
+      padding-top: 16%;
+}
+
+.social.media.icons {
+    gap: 20px;
+    padding-top: 20px;
+}
+
+a.text-link {
+    color: black;
+    font-size: 15px;
+}
+
+body > div.about-info > div.text > p:nth-child(4) > a.text {
+    color: #f7941d;
+    text-decoration: none;
+}
+
+section.footer-section {
+    font-family: 'Nunito', sans-serif;
+    background-color: #77777712;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.hashtag {
+    padding-top: 100px;
+}
+
+h4 {
+    font-family: "Abril Fatface", sans-serif;
+    font-size: 28px;
+    letter-spacing: 0.5px;
+    line-height: 32px;
+    text-transform: none;
+    color: #222222;
+}
+
+.bottom-section {
+    display: flex;
+    padding-top: 90px;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+    gap: 30px;
+}
+
+body > section.footer-section > div.bottom-section > div.copyright > p:hover{
+    color: #f7941d;
+}
+
+.bottom-nav {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-right: 128px;
+}
+
+.nav-links {
+    padding-top: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+a.nav {
+    text-decoration: none;
+    color: #222222;
+    font-size: 12px;
+    font-family: "Nunito", sans-serif;
+    letter-spacing: 1.5px;
+    line-height: 24px;
+}
+
+.links1 {
+    display: flex;
+    gap: 20px;
+}
+
+.links2 {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+a:hover{
+    color: #f7941d;
+    cursor: pointer;
+}
+
+section.toolbar-section {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    margin-top: -180px;
+    position: sticky;
+    bottom: 0;
+    width: 13%;
+    left: 1101px;
+}
+
+.demo1 {
+    display: flex;
+    font-family: Roboto, sans-serif;
+    line-height: 1em;
+    justify-content: center;
+    gap: 5px;
+    align-items: center;
+    padding: 14px 28px 11px 24px;
+    background-color: #fafafa;
+    box-shadow: 0px 0px 7.84px 0.16px rgb(0 0 0 / 10%);
+    cursor: pointer;
+    margin-bottom: 15px;
+}
+
+span.demo-text {
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.span2 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    font-size: 14px;
+    line-height: 1em;
+    letter-spacing: -0.01em;
+}
+
+.demo2 {
+    background-color: #f21e4e;
+    color: #fff;
+    cursor: pointer;
+    padding: 14px 28px 11px 24px;
+    margin-bottom: 60px;
+}
+
+span.demo2text {
+    font-size: 12px;
+    letter-spacing: 0.11em;
+}
