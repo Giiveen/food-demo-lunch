@@ -1,0 +1,149 @@
+@media screen and (max-width: 1024px){
+    .cookbook-content {
+        width: 70%;
+    }
+    
+    .header-section {
+        margin-top: 50px;
+    }
+    
+    .demo2 {
+        width: 165px;
+        font-size: 18px;
+    }
+
+}
+
+@media (min-width: 650px) and (max-width: 800px){
+    section.cookbook {
+        padding-left: 5%;
+    }
+    
+    .cookbook-content {
+        width: 80%;
+    }
+    
+    .bottom-section {
+        flex-direction: column;
+    }
+    
+    .bottom-nav {
+        padding-right: 0px;
+    }
+
+}
+
+@media (min-width: 300px) and (max-width: 640px){
+    section.cookbook {
+        padding-left: 5%;
+        gap: 10px;
+    }
+    
+    .cookbook-content {
+        width: 100%;
+    }
+    
+    p.cookbook-text {
+        font-size: 12px;
+        margin-top: 8px;
+        width: 90%;
+    }
+    
+    a.cookbook-link {
+        font-size: 9px;
+        padding-right: 5px;
+    }
+    
+    i.qode_icon_font_awesome_5.fa5.fa.fa-caret-right.qode_button_icon_element {
+        padding-left: 0px; 
+    }
+    
+    a.quick-help {
+        font-size: 12px;
+    }
+    
+    a.email-at{
+        font-size: 12px;  
+    }
+    
+    .email-link {
+        padding-top: 0px;
+        
+    }
+    
+    .menu-selection {
+        margin-top: 5%;
+    }
+    
+    .columns {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+        margin: 0;
+    }
+    
+    .column-one {
+        width: 90%;
+        margin: auto;
+    }
+    
+    .easy-menu {
+        width: 100%;
+    }
+    
+    .recipe-img {
+        width: 100%;
+    }
+    
+    .columns-content {
+        width: 100%;
+    }
+    
+    .column-two {
+        width: 90%;
+        margin: auto;
+    }
+    
+    .column-three {
+        width: 90%;
+        padding-top: 40px;
+        margin: auto;
+    }
+    
+    .contact {
+        text-align: center;
+        margin-top: 0%;
+    }
+    
+    .media-image2 {
+        padding-top: 30px;
+    }
+    
+    section.footer-section {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .bottom-section {
+        display: flex;
+        padding-top: 90px;
+        width: 100%;
+        align-items: center;
+        gap: 30px;
+        flex-direction: column;
+    }
+    
+    .bottom-nav {
+        padding-right: 0px;
+    }
+    
+    .demo2 {
+        width: 165px;
+        font-size: 18px;
+    }
+}
+
+
+
